@@ -108,9 +108,8 @@ Available Routes:
 ---
 
 ## 👨‍💻 Author
-1st-year CS student 
-@ ITMO University
-GitHub: [npapaHAHA](https://github.com/npapaHAHA)
+- 1st-year CS student @ ITMO University
+- GitHub: [npapaHAHA](https://github.com/npapaHAHA)
 
 
 
